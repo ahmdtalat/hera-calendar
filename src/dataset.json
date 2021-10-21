@@ -1,0 +1,811 @@
+[
+  {
+    "id": "0k0n1f077vrlqs7nunj9rdlr92_20211015T100000Z",
+    "status": "confirmed",
+    "summary": "Bruno x Louise",
+    "start": {
+      "dateTime": "2021-10-15T12:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-15T12:25:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "organizer": true,
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "0r69j56vrgpi5b2omelb475bqf_20211014T160000Z",
+    "status": "confirmed",
+    "summary": "🎊 Beta Friday prep 🎊",
+    "start": {
+      "dateTime": "2021-10-14T18:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-14T18:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "393acvksfdshor9e88qj7lk975_20211014T120000Z",
+    "status": "confirmed",
+    "summary": "1o1 - Jerem x Bru",
+    "start": {
+      "dateTime": "2021-10-14T14:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-14T14:35:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "organizer": true,
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "jeremie@hera.so",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "7t59p337hfuvtmgbir94oqa04s",
+    "status": "confirmed",
+    "summary": "Dej Will",
+    "start": {
+      "dateTime": "2021-10-13T12:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-13T14:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "william@outlook.com",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "jahqq98gkvtb60av26ui9tjvkc",
+    "status": "confirmed",
+    "summary": "Doc",
+    "start": {
+      "dateTime": "2021-10-14T12:15:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-14T12:45:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "oabknk07d8jc9ff39jauk83f0o",
+    "status": "confirmed",
+    "summary": "Drinks Julien + Luc",
+    "start": {
+      "dateTime": "2021-10-13T19:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-13T21:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "50kj7gn6lmbnh41m1ee5kg5mdc",
+    "status": "confirmed",
+    "summary": "Pass Airtable",
+    "start": {
+      "dateTime": "2021-10-11T16:45:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-11T17:25:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "358uj31egqo6g1nbiug26f9pdb",
+    "status": "confirmed",
+    "summary": "Message community",
+    "start": {
+      "dateTime": "2021-10-11T09:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-11T09:40:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "7o34eah1u11s96h0etrt78g5fc",
+    "status": "confirmed",
+    "summary": "Knowledge product",
+    "start": {
+      "dateTime": "2021-10-11T12:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-11T13:20:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "1m4h8umiliv7h0rg20f757m2ij",
+    "status": "confirmed",
+    "summary": "Accept invite",
+    "start": {
+      "dateTime": "2021-10-11T09:45:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-11T11:35:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "10r2hb08jg91nv1k79ltpmrshv",
+    "status": "confirmed",
+    "summary": "Thank you message to people that helped during seed",
+    "start": {
+      "dateTime": "2021-10-11T22:15:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-11T22:55:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "5bts3h9ush9itldftabbp7laq2",
+    "status": "confirmed",
+    "summary": "Kymono clothes",
+    "start": {
+      "dateTime": "2021-10-11T13:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-11T13:55:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "3d02e38ihh4jl11ikuphrd65o0",
+    "status": "confirmed",
+    "summary": "Layout algorithm",
+    "start": {
+      "dateTime": "2021-10-11T14:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-11T14:40:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "fd8227ef7a19414b99db435597f1b4a8",
+    "status": "confirmed",
+    "summary": "Dynamo",
+    "start": {
+      "dateTime": "2021-10-12T07:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-12T09:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "organizer": true,
+        "self": true,
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "5u14vvk79tmd7vqvs31364r3ao",
+    "status": "confirmed",
+    "summary": "Bruno / Bruno",
+    "start": {
+      "dateTime": "2021-10-11T15:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-11T15:25:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "bruno@gmail.com",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "bpum4drcm8v1re6kf1k8l6ve9o",
+    "status": "confirmed",
+    "summary": "Visite appart",
+    "start": {
+      "dateTime": "2021-10-11T17:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-11T18:45:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "organizer": true,
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "gg@gmail.com",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "7b3opl9u44ulh45ggjdscq1c93",
+    "status": "confirmed",
+    "summary": "Appeler seb",
+    "start": {
+      "dateTime": "2021-10-12T13:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-12T14:10:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "8m8vtnn2oor2q6hh87mcggiqm0",
+    "status": "confirmed",
+    "summary": "Deep work",
+    "start": {
+      "dateTime": "2021-10-14T18:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-14T21:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "pjj95d63p7d0f3ar2p9c5vu6a0",
+    "status": "confirmed",
+    "summary": "Boxing",
+    "start": {
+      "dateTime": "2021-10-12T12:15:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-12T13:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "62rip73u43gng9soesqpoufv8p",
+    "status": "confirmed",
+    "summary": "Visite",
+    "start": {
+      "dateTime": "2021-10-14T13:15:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-14T13:55:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "264vk2vtc3v0jp9uicpm7sqmpi",
+    "status": "confirmed",
+    "summary": "Appeler haircut",
+    "start": {
+      "dateTime": "2021-10-12T09:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-12T09:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "71fcidh1qm6bjqm6tvu2auqls7",
+    "status": "confirmed",
+    "summary": "Debrief Elisei + Marcos + Daniel",
+    "start": {
+      "dateTime": "2021-10-13T09:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-13T09:40:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "organizer": true,
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "02g5kvssaqnbp187894081a797",
+    "status": "confirmed",
+    "summary": "Vithu \u003c\u003e Hera",
+    "start": {
+      "dateTime": "2021-10-13T14:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-13T15:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "v@mail.co",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "7fe7bju7sn9ekgvibr58lhsmjd",
+    "status": "confirmed",
+    "summary": "Kick-off Front-end engineer hiring",
+    "start": {
+      "dateTime": "2021-10-15T09:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-15T10:10:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "attendees": [
+      {
+        "email": "jeremie@hera.so",
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "bruno@hera.so",
+        "organizer": true,
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "7e23614900404c818555bb5718fd9e95",
+    "status": "confirmed",
+    "summary": "test",
+    "start": {
+      "dateTime": "2021-10-12T11:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-12T11:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "3ef60646495f40aa960bad9b395fe698",
+    "status": "confirmed",
+    "summary": "test",
+    "start": {
+      "dateTime": "2021-10-12T10:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-12T11:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "5195a21231d54584a7144404cadd5c66",
+    "status": "confirmed",
+    "summary": "No Daniel",
+    "start": {
+      "dateTime": "2021-10-13T15:15:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-13T15:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "4k67u9sc616sjtfgicdlml2b9c",
+    "status": "confirmed",
+    "summary": "Recurring event transition",
+    "start": {
+      "dateTime": "2021-10-13T17:45:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-13T18:25:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "3unaj6sntl3qks04e5rqsmhvhg",
+    "status": "confirmed",
+    "summary": "Dev",
+    "start": {
+      "dateTime": "2021-10-13T10:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-13T11:50:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "2m48h1rq54e7gbljf8f3pudvre",
+    "status": "confirmed",
+    "summary": "Front-end engineer job listing",
+    "start": {
+      "dateTime": "2021-10-14T16:45:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-14T17:25:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "04orldrl5m0aomls9f3sen81i7",
+    "status": "confirmed",
+    "summary": "Touchbase hriing",
+    "start": {
+      "dateTime": "2021-10-12T18:15:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-12T18:45:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "3o33gigi4ru1fg4o4l8t57dbc6",
+    "status": "confirmed",
+    "summary": "June dashboard",
+    "start": {
+      "dateTime": "2021-10-12T17:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-12T18:15:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "2stpgfq6uma673j1q4rprfolsd",
+    "status": "confirmed",
+    "summary": "Prep 1o1",
+    "start": {
+      "dateTime": "2021-10-14T11:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-14T11:55:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "af2bca69e9334b1bb218165a895fbceb",
+    "status": "confirmed",
+    "summary": "Review Tanya",
+    "start": {
+      "dateTime": "2021-10-14T08:45:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-14T09:15:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "6b7gfskks2oocr1onj5ffodbgk",
+    "status": "confirmed",
+    "summary": "Message  larger commu",
+    "start": {
+      "dateTime": "2021-10-11T08:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-11T08:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "e66ea92c2aab4b9ba7cf8493c3fc3972",
+    "status": "confirmed",
+    "summary": "Discuss what to do next week",
+    "start": {
+      "dateTime": "2021-10-15T10:15:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-15T11:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "3f4b2308fcc24662ba286e313398e678",
+    "status": "confirmed",
+    "summary": "Coffee",
+    "start": {
+      "dateTime": "2021-10-14T15:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-14T15:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "declined"
+      },
+      {
+        "email": "louise@hera.so",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "78jiur5qh8iallru0qkkj7pv93",
+    "status": "confirmed",
+    "summary": "Yann x Bruno (Hera)",
+    "start": {
+      "dateTime": "2021-10-15T08:30:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-15T09:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "organizer": true,
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "yann@outlook.com",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "97010e6b057d45928f04708700714997",
+    "status": "confirmed",
+    "summary": "Donye x Hera [Product Designer]",
+    "start": {
+      "dateTime": "2021-10-15T17:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-15T17:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "donye@gmail.com",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "23r2fu9a6o24l77jdia0bjq219",
+    "status": "confirmed",
+    "summary": "Yoga",
+    "start": {
+      "dateTime": "2021-10-15T19:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-15T20:05:00+02:00",
+      "timeZone": "Europe/Berlin"
+    }
+  },
+  {
+    "id": "pvtr435vh8fsbu8kb73mdo57q0",
+    "status": "confirmed",
+    "summary": "Hera x Margot",
+    "start": {
+      "dateTime": "2021-10-15T13:00:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "end": {
+      "dateTime": "2021-10-15T13:45:00+02:00",
+      "timeZone": "Europe/Berlin"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "organizer": true,
+        "self": true,
+        "responseStatus": "declined"
+      },
+      {
+        "email": "louise@hera.so",
+        "responseStatus": "declined"
+      },
+      {
+        "email": "margot@gmail.com",
+        "responseStatus": "needsAction"
+      }
+    ]
+  },
+  {
+    "id": "7mj7iq1redqu2ttonoafa0eg7m",
+    "status": "confirmed",
+    "summary": "Mail techcrunch",
+    "start": {
+      "dateTime": "2021-10-15T12:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-15T13:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "4l4n9r1b9gpe2f31onl71gpthr_20211014T153000Z",
+    "status": "confirmed",
+    "summary": "Prep 1o1 x Louise",
+    "start": {
+      "dateTime": "2021-10-15T11:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-15T11:25:00+02:00",
+      "timeZone": "Europe/Paris"
+    }
+  },
+  {
+    "id": "1csp43q27bh21ofvls4udn1uk1",
+    "status": "confirmed",
+    "summary": "Prep podcast",
+    "start": {
+      "dateTime": "2021-10-15T17:45:00+02:00",
+      "timeZone": "Europe/Lisbon"
+    },
+    "end": {
+      "dateTime": "2021-10-15T18:30:00+02:00",
+      "timeZone": "Europe/Lisbon"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "laurent@gmail.com",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "85c0a61521874fb79dc5b6fe40119309",
+    "status": "confirmed",
+    "summary": "Don x Hera [Product Designer]",
+    "start": {
+      "dateTime": "2021-10-15T16:30:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "end": {
+      "dateTime": "2021-10-15T17:00:00+02:00",
+      "timeZone": "Europe/Paris"
+    },
+    "attendees": [
+      {
+        "email": "bruno@hera.so",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "louise@hera.so",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "don@hotmail.com",
+        "responseStatus": "accepted"
+      }
+    ]
+  }
+]
