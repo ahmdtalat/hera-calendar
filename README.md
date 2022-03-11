@@ -13,7 +13,7 @@ While you code, please commit as often as you can, **at the very least for each 
 It's okay if it is not perfect or if you don't have time to complete more than Part 1.
 You can answer questions orally and elaborate on how you would have done during the following debrief interview.
 
-When you are done, push your code to Github, invite `jrmdayn`+`brunovegreville` and send us an email: [jeremie@hera.so](mailto:jeremie@hera.so) - we will be in touch shortly to schedule a debrief interview.
+When you are done, push your code to Github, invite `jrmdayn`+`brunovegreville` and send us an email: [bruno@hera.so](mailto:bruno@hera.so) - we will be in touch shortly to schedule a debrief interview.
 
 ## The challenge
 
