@@ -52,11 +52,22 @@
   font-weight: bold;
 }
 
+
+/* reason for row height of 60px is to simulate 60 minutes */
 .grid main {
   grid-column: 2/7;
   grid-row: 2/19;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(17, 60px);
+}
 
+
+.event {
+  font-size: 11px;
+}
+
+/* in case an overlap happened */
+.event:hover {
+  z-index: 9;
 }
