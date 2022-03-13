@@ -64,7 +64,16 @@
 
 
 .event {
+  z-index: 5;
+  margin: 2px;
+  display: flex;
+  cursor: pointer;
   font-size: 11px;
+  border-radius: 4px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #fff;
+  background: orange;
 }
 
 /* in case an overlap happened */

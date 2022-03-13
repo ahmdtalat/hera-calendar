@@ -26,7 +26,12 @@ function App() {
           <CalendarRowNames />
           <main>
             {data.map((event) => (
-              <Event event={event} key={event.id} setSelectedEvent={setSelectedEvent} />
+              <Event
+                event={event}
+                key={event.id}
+                setSelectedEvent={setSelectedEvent}
+                selected={selectedEvent?.id === event.id}
+              />
             ))}
             <CalendarRowLayout />
           </main>

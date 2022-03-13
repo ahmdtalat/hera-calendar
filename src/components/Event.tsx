@@ -2,11 +2,12 @@ import { CalendarEvent } from '../types'
 import { formatter, rowNames } from '../utils'
 
 interface Props {
+  selected: boolean
   event: CalendarEvent
   setSelectedEvent: (value: React.SetStateAction<CalendarEvent | null>) => void
 }
 
-const Event = ({ event, setSelectedEvent }: Props) => {
+const Event = ({ event, selected, setSelectedEvent }: Props) => {
   // startDayPeriod: AM || PM
   // formatToParts:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/formatToParts
   const [startDay, , startHour, , startMin, , startDayPeriod] = formatter.formatToParts(new Date(event.start.dateTime))
@@ -37,18 +38,10 @@ const Event = ({ event, setSelectedEvent }: Props) => {
     <div
       key={event.id}
       style={{
-        zIndex: 5,
-        margin: '2px',
-        display: 'flex',
-        cursor: 'pointer',
-        borderRadius: '8px',
-        background: 'orange',
-        alignItems: 'center',
-        justifyContent: 'center',
-        border: '3px solid gray',
         marginTop: startMinToPixel,
         marginBottom: endMinToPixel,
-        gridArea: `${rowStart}/${colStart}/${rowEnd}/${colStart}`
+        gridArea: `${rowStart}/${colStart}/${rowEnd}/${colStart}`,
+        border: selected ? '2px solid blue' : ''
       }}
       className='event'
       onClick={() => setSelectedEvent(event)}
