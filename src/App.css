@@ -71,3 +71,10 @@
 .event:hover {
   z-index: 9;
 }
+
+.attendees li {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: #efefef;
+}

@@ -3,9 +3,10 @@ import { formatter, rowNames } from '../utils'
 
 interface Props {
   event: CalendarEvent
+  setSelectedEvent: (value: React.SetStateAction<CalendarEvent | null>) => void
 }
 
-const Event = ({ event }: Props) => {
+const Event = ({ event, setSelectedEvent }: Props) => {
   // startDayPeriod: AM || PM
   // formatToParts:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/formatToParts
   const [startDay, , startHour, , startMin, , startDayPeriod] = formatter.formatToParts(new Date(event.start.dateTime))
@@ -50,6 +51,7 @@ const Event = ({ event }: Props) => {
         gridArea: `${rowStart}/${colStart}/${rowEnd}/${colStart}`
       }}
       className='event'
+      onClick={() => setSelectedEvent(event)}
     >
       {event.summary}
     </div>
